@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\obj\Debug\net6.0\staticKavrami.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\obj\Debug\net6.0\staticKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\obj\Debug\net6.0\staticKavrami.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\obj\Debug\net6.0\staticKavrami.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\obj\Debug\net6.0\staticKavrami.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\bin\Debug\net6.0\staticKavrami.exe
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\bin\Debug\net6.0\staticKavrami.deps.json
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\bin\Debug\net6.0\staticKavrami.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\bin\Debug\net6.0\staticKavrami.dll
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\bin\Debug\net6.0\ref\staticKavrami.dll
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\bin\Debug\net6.0\staticKavrami.pdb
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\obj\Debug\net6.0\staticKavrami.dll
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\obj\Debug\net6.0\ref\staticKavrami.dll
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\obj\Debug\net6.0\staticKavrami.pdb
+C:\Users\90542\Desktop\Pratikler3\staticKavrami\obj\Debug\net6.0\staticKavrami.genruntimeconfig.cache
